@@ -1,0 +1,10 @@
+We took second place in the competition with the idea of ​​making a quick and convenient product assistant. 
+The application accepts a barcode and as a result we see all the information about the product - the composition (visual division of products into useful and others). 
+You can also enter a product that you do not consume (diet, allergen, diseases, personal preferences), 
+and our software, if it finds this product in the composition, will emphasize it. 
+Thus, the user does not need to view the entire composition on his own, he immediately sees whether this product is suitable for him.
+Additionally, our app shows you how to recycle the product.
+The goal of the project is to increase the eco-awareness of guests and get the user to care about the environment. 
+A shot from app attached. IOS demo and source code u can find here: 
+
+https://lnkd.in/eghYADd3
