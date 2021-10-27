@@ -1,0 +1,11 @@
+[Unit]
+Description=silpohack
+
+[Service]
+User=root
+WorkingDirectory=/root/code/silpohack
+ExecStart=uvicorn main:app --reload
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
